@@ -6,5 +6,5 @@
 ### Install locally
 1. Download the repo
 2. In your Chrome address bar, type `chrome://extensions`
-3. Click `Load unpacked`
+3. Click `Load unpacked` (may need to toggle on `Developer mode` first)
 4. Select the `chrome-extension` folder inside the repo
